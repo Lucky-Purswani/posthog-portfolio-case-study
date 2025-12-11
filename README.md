@@ -140,7 +140,7 @@ Basically — anywhere you want to understand **what users really do**.
 
 ## 🔗 Links  
 ### **🔗 Portfolio**  
-https://your-portfolio-link.com
+[Portfolio Website](https://lucky-purswani.vercel.app/)
 
 ### **🔗 Full PDF Case Study**    
 [Download case-study](./PostHog-Analytics.pdf)
